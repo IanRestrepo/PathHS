@@ -19,7 +19,7 @@ span {
     font-weight: bold;
 }
 
-@media (max-width:358px) {
+@media (max-width:472px) {
     .container {
         display: flex;
         align-items: center;
