@@ -35,6 +35,6 @@ nav > ul > li > a:hover{
 
 @media (max-width:472px) {
     nav{
-        font-size: 15px;
+        font-size: 11px;
     }
 }
