@@ -33,3 +33,8 @@ nav > ul > li > a:hover{
     color: rgb(255, 174, 0);
 }
 
+@media (max-width:472px) {
+    nav{
+        font-size: 15px;
+    }
+}
